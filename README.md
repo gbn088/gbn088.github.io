@@ -11,8 +11,8 @@ highfive:✋
 <br> <br>
 <br>
 +++Quote of the day+++ <br>
-East or West -Javascript<br>
--is where I Rest. <br>
+East or West <br>
+Javascript is where I Rest. <br>
 +++++++++++++++++
 <br>
 🦋
