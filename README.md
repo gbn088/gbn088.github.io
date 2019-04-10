@@ -12,7 +12,7 @@ highfive:✋
 <br>
 +++Quote of the day+++ <br>
 East or West -Javascript<br>
--is where I Rest. (Rust? ) <br>
+-is where I Rest. <br>
 +++++++++++++++++
 <br>
 🦋
