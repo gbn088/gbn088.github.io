@@ -11,8 +11,8 @@ highfive:✋
 <br> <br>
 <br>
 +++Quote of the day+++ <br>
-I did not choose Javascript; <br>
-Javascript chose Me. <br>
+East or West -Javascript<br>
+-is where I Rest. (Rust? ) <br>
 +++++++++++++++++
 <br>
 🦋
