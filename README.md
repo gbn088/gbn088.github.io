@@ -1,4 +1,4 @@
-hi👋<br>
+👋<br>
 
 my name is Gobinath Kochengan.<br>
 master of my code; captain of my ship.<br>
