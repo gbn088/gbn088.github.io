@@ -9,6 +9,5 @@ You may take a look at <a href="https://gobinathco.com/projects/" target="_blank
 or just give me high five. <br>
 highfive:✋
 <br> <br>
-<br>
 🦋
 </body>
