@@ -9,6 +9,11 @@ you may take a look at <a href="https://gobinath.co/projects/" target="_blank">s
 or just give me high five. <br>
 highfive:✋
 <br> 
-
+<br>
++++Quote of the day+++ <br>
+East or West; <br>
+Javascript is where I Rest. <br>
++++++++++++++++++
+<br>
 🦋
 </body>
