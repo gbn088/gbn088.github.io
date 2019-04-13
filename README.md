@@ -10,10 +10,5 @@ or just give me high five. <br>
 highfive:✋
 <br> <br>
 <br>
-+++Quote of the day+++ <br>
-East or West; <br>
-Javascript is where I Rest. <br>
-+++++++++++++++++
-<br>
 🦋
 </body>
