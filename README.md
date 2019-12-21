@@ -1,9 +1,12 @@
-hi! 👋
-my name is Gobinath Kochengan. <br>
+👋
+Gobinath Kochengan. <br>
+That's just my name. <br>
 
-you may take a look at things that I make, <br>
-read my bio, check out my profiles  <br>
-or just give me high five. <br>
-highfive: ✋ <br>
+Otherwise, I am about <br>
+questioning things <br>
+seeking out answers and  <br>
+doing things for the heck of it. <br>
 
+If you are that type, I am here for you :)
+<br>
 ⚡
