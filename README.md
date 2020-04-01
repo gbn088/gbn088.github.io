@@ -1,12 +1,6 @@
 👋
-Gobinath Kochengan is my name. <br>
+My name is Gobinath<br>
 
-I am about <br>
-questioning things <br>
-seeking out answers and  <br>
-doing things for the heck of it. <br>
+and...<br>
 
-If you are that type, I am here for you :) <br>
-<a href="https://github.com/gobinathco/profiles" target="_blank">Links</a>
-<br>
-⁉️
+I'm figuring out👀
