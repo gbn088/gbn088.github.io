@@ -12,7 +12,7 @@ some random wisdom:
 
 - There is always enough time; but not enough priorities
 
-- Slow is Smart, Smart is Smooth, Smooth is fast
+- Smart is Slow, Smart is Smooth, Smooth is Fast
 
 
 
