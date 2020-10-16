@@ -2,7 +2,7 @@ some random wisdom:
 
 - Everything is constantly changing and compounding
 
-- For every 'Yes' consider hundreds of 'No's
+- Hundred 'No's for every 'Yes'
 
 - 80% of output comes from 20% of (right)input
 
