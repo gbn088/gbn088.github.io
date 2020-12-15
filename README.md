@@ -6,13 +6,13 @@ some random wisdom:
 
 - 80% of output comes from 20% of (right)input
 
-- Having a good system is even important than goals; but only to the extent of achieving the goals
+- Systems >< Goals
 
-- Writing everyday is highly beneficial to the mind and therefore life
+- Writing is a tool for clear thinking
 
-- There is always enough time; but not enough priorities
+- It is not about enough time but right priorities
 
-- Smart is Slow, Smart is Smooth, Smooth is Fast
+- Slow is Smooth, Smart is Fast, Smooth is Fast
 
 
 
