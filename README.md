@@ -1,4 +1,4 @@
-some random wisdom:
+some random wisdom and ideas:
 
 - Everything is constantly changing and compounding
 
