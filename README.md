@@ -7,18 +7,12 @@ things that I'm currently doing:
 
 random wisdom and ideas:
 
-- Everything is constantly changing and compounding
+- Change = consistency + compound
 
-- 80% of output comes from 20% of (right)input
+- (20% of (right)input) --> 80% of output
 
-- Systems >< Goals
+- systems >< goals
 
-- Writing is a tool for clear thinking
+- writing => clear thinking
 
-- Slow is Smooth, Smart is Fast, Smooth is Fast
-
-
-
-
-
-
+- slow is smooth, smart is fast, smooth is fast
