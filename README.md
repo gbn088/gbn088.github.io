@@ -1,11 +1,11 @@
-things that I'm currently doing:
+<b>things that I'm currently doing</b>:
 
 - trippets : stories in three snippets
   - <a href="https://trippets.substack.com/">trippets.substack.com</a>
   - <a href="https://twitter.com/trippets_">twitter.com/trippets_</a>
   
 
-random wisdom and ideas:
+<b>random wisdom and ideas</b>:
 
 - change = consistency + compound
 - concise writing => clear thinking
