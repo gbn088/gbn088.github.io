@@ -8,11 +8,7 @@ things that I'm currently doing:
 random wisdom and ideas:
 
 - change = consistency + compound
-
-- (20% of (right)input) --> 80% of output
-
-- systems >< goals
-
 - concise writing => clear thinking
-
+- systems >< goals
+- (20% of (right)input) --> 80% of output
 - slow is smooth, smooth is fast, smart is fast
