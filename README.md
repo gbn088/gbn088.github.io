@@ -7,12 +7,12 @@ things that I'm currently doing:
 
 random wisdom and ideas:
 
-- Change = consistency + compound
+- change = consistency + compound
 
 - (20% of (right)input) --> 80% of output
 
 - systems >< goals
 
-- writing => clear thinking
+- concise writing => clear thinking
 
-- slow is smooth, smart is fast, smooth is fast
+- slow is smooth, smooth is fast, smart is fast
