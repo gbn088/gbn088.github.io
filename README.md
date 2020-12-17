@@ -1,8 +1,8 @@
-<b>things that I'm currently doing</b>:
+things that I'm currently doing:
 
-- trippets : stories in three snippets
-  - <a href="https://trippets.substack.com/">trippets.substack.com</a>
-  - <a href="https://twitter.com/trippets_">twitter.com/trippets_</a>
+| - trippets : stories in three snippets
+|   - <a href="https://trippets.substack.com/">trippets.substack.com</a> <br>
+|   - <a href="https://twitter.com/trippets_">twitter.com/trippets_</a> <br>
   
 
 <b>random wisdom and ideas</b>:
