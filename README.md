@@ -17,3 +17,6 @@
 
 - <a href="https://twitter.com/kosengan_/followers">twitter</a>
 - <a href="https://github.com/kosengan">github</a>
+
+
+<img src"./drawing.jpg">If I have nothing much to do, I draw</img>
